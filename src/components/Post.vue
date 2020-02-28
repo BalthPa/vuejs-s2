@@ -15,10 +15,7 @@
 
     <v-card-actions>
 
-      <v-dialog
-      v-model="dialog"
-      width="500"
-    >
+      <v-dialog v-model="dialog" width="500">
       <template v-slot:activator="{ on }">
         <v-btn
           color="red lighten-2"
