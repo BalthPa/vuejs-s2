@@ -1,5 +1,8 @@
 # projetvue
 
+Vue and Vuetify project, blog about food.
+February 2020 - Sophomore year
+
 ## Project setup
 ```
 npm install
